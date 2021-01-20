@@ -6,7 +6,7 @@ Construct the following commands and implement their expected function:
 
 Command | Function | Example 
 --- | --- | --- 
-"L" | list all the students in the registry | `>L` 
+"L" | list all the students in the registry | `L` 
 "Q" | quit the program | `Q` | 
 "REG" | register a student by reading a student name and student id from the commandLine scanner | `>reg ElonMusk 12345` |
 "DEL" | deletes a student from the registry | `del 12345` | 
