@@ -1,5 +1,15 @@
 # StudentRegistry
 A student registration program that manages administrative functions such as enrolling students, adding courses to a student's schedule, dropping courses, setting grades, and printing student schedules.
+### Adding/Deleting Students
+![](https://github.com/t10le/StudentRegistry/blob/main/demo/1_AddDelStudents.gif)
+### Adding/Dropping Student Courses
+![](https://github.com/t10le/StudentRegistry/blob/main/demo/2_addDropCourses.gif)
+### Printing/Sorting Class List of Students
+![](https://github.com/t10le/StudentRegistry/blob/main/demo/3_printSortClass.gif)
+### Grading
+![](https://github.com/t10le/StudentRegistry/blob/main/demo/4_Grading.gif)
+### Timetable
+![](https://github.com/t10le/StudentRegistry/blob/main/demo/5_Timetable.gif)
 
 ## Objective
 Construct the following commands and implement their expected function:
