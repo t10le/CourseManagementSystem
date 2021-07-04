@@ -5,4 +5,4 @@ For the lectureTime input, the program is expecting the format to be "800" inste
 All code has been properly commented too.
 Exceptions have been properly handled.
 
-- Tommy Le (500793841)
+- Tommy Le
