@@ -32,12 +32,3 @@ Command | Function | Example
 "SCH" | schedules a course for a certain day, start time and duration | `sch cps209 Mon 800 2`
 "CSCH" | clears the schedule of a given course | `csch ` |
 "PSCH" | prints the entire schedule |`psch`|
-
-
-## Analysis & Design
-
-## Testing
-
-## Obstacles
-
-## Conclusion
